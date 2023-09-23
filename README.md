@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raghav-Thapa
-- 🌱 I’m currently learning MERN stack
+- 🌱 MERN stack developer
 - 📫 Reach me on raghavthapa7@gmail.com
 
 <!---
