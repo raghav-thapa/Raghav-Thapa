@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Raghav-Thapa
-- 🌱 MERN stack developer
 - 📫 Reach me on raghavthapa7@gmail.com
 
 <!---
