@@ -30,6 +30,11 @@
 
 - 📫 Reach me on raghavthapa7@gmail.com
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/Raghav-Thapa-mg/Raghav-Thapa-mg/output/snake.svg" alt="Snake animation" />
+
+
 <!---
 Raghav-Thapa/Raghav-Thapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
