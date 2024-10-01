@@ -32,7 +32,9 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Raghav-Thapa-mg/Raghav-Thapa-mg/output/snake.svg" alt="Snake animation" />
+![Snake](./svg/snake(Light).svg)
+<br/>
+![Snake](./svg/snake(dark).svg)
 
 
 <!---
