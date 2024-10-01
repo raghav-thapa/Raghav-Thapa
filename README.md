@@ -28,12 +28,8 @@
 
 <br/>  
 
-- 📫 Reach me on raghavthapa7@gmail.com
+**- 📫 Reach me on raghavthapa7@gmail.com**
 
-<br/>
-
-![Snake](./svg/snake(Light).svg)
-<br/>
 ![Snake](./svg/snake(dark).svg)
 
 
