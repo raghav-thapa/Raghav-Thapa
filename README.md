@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghav-Thapa
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=4CFF3A00&width=435&lines=Hey!+It's+Raghav+Thapa+Chhetri+here!)](https://git.io/typing-svg)
 - 📫 Reach me on raghavthapa7@gmail.com
 
 <!---
