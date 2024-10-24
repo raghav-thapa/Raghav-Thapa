@@ -30,8 +30,10 @@
 
 **- 📫 Reach me on raghavthapa7@gmail.com**
 
+<!-- UNCOMMENT THIS FOR DISPLAYING SNAKE GRAPH -->
+<!--
 ![Snake](./svg/snake(dark).svg)
-
+-->
 
 <!---
 Raghav-Thapa/Raghav-Thapa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
