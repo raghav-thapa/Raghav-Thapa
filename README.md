@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&background=4CFF3A00&vCenter=true&width=700&height=60&lines=Hey!+It's+Raghav+Thapa+Chhetri+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&background=4CFF3A00&vCenter=true&width=700&height=60&lines=Hey!+It's+Raghav+Thapa+Chhetri+here!)](https://git.io/typing-svg) 
+<!-- <br/> -->
+<!-- This is for Profile views count -->
+<!-- ![](https://komarev.com/ghpvc/?username=raghav-thapa) -->
 ## Languages and Tools  
 <div>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="42" /></a>  &nbsp;
